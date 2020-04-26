@@ -1,0 +1,15 @@
+PROC A
+  X += 1 ;
+ENDPROC
+PROC B
+  X += 1 ;
+ENDPROC
+PROC C
+  X += 1 ;
+ENDPROC
+INT X ;
+X = 0 ;
+CALL A ;
+CALL B ;
+CALL C ;
+print X ;

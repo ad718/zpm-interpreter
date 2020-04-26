@@ -1,0 +1,8 @@
+INT a ;
+INT b ;
+a = 45 ;
+a = 46 ;
+b = 47 ;
+a = 48 ;
+PRINT a ;
+PRINT b ;

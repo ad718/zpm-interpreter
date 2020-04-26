@@ -1,0 +1,4 @@
+STRING A ;
+A = "3" ;
+A *= A ;
+PRINT A ;

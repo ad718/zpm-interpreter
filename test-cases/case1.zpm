@@ -1,0 +1,12 @@
+INT A ;
+Int B ;
+booL C ;
+String D ;
+a = 0 ;
+b = 1 ;
+C = True ;
+d = "HELLO" ;
+PRINT A ;
+print B ;
+Print C ;
+prInt D ;

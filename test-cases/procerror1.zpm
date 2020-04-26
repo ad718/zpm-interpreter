@@ -1,0 +1,9 @@
+PROC F
+  A += 2 ;
+  A *= B ;
+ENDPROC
+INT A ;
+STRING B ;
+A = 1 ;
+B = "HELLO" ;
+CALL F ;

@@ -1,0 +1,6 @@
+BOOL a ;
+a = true ;
+BOOL b ;
+b = false ;
+PRINT a ;
+PRINT b ;

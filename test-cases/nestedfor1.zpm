@@ -1,0 +1,7 @@
+INT A ;
+INT B ;
+A = 1 ;
+B = 2 ;
+FOR 3 B += A ; A *= 2 ; FOR 5 A += B ; ENDFOR ENDFOR
+PRINT A ;
+PRINT B ;

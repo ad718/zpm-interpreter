@@ -1,0 +1,7 @@
+BOOL A ;
+STRING B ;
+A = TRUE ;
+B = "TRUE" ;
+A = B ;
+PRINT A ;
+PRINT B ;

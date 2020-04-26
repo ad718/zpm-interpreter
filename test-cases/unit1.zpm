@@ -1,0 +1,5 @@
+STRING A ;
+STRING B ;
+A = "HELLO" ;
+A = B ;
+PRINT A ;

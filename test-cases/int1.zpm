@@ -1,0 +1,15 @@
+INT a ;
+a = 45 ;
+PRINT a ;
+a = 30 ;
+INT b ;
+b = 0 ;
+b = a ;
+b = b ;
+PRINT b ;
+a = a ;
+PRINT a ;
+a = 40 ;
+b = 2 ;
+PRINT a ;
+PRINT b ;

@@ -1,0 +1,4 @@
+INT A ;
+A = 2 ;
+FOR 5 A += 10000 ; FOR 5 FOR 5 A += 2 ; ENDFOR ENDFOR A += 100 ; ENDFOR
+PRINT A ;

@@ -1,0 +1,8 @@
+PROC X
+  A += 1 ;
+  FOR 6 A += 10 ; ENDFOR
+ENDPROC
+INT A ;
+A = 100 ;
+CALL X ; 
+PRINT A ;

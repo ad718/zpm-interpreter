@@ -1,0 +1,7 @@
+INT a ;
+BOOL b ;
+b = true ;
+a = 100 ;
+a += b ;
+PRINT a ;
+PRINT b ;

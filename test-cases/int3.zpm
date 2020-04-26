@@ -1,0 +1,3 @@
+INT A ;
+A = -34 ;
+PRINT A ;

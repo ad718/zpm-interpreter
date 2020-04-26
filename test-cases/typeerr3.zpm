@@ -1,0 +1,7 @@
+INT A ;
+STRING B ;
+A = 3 ;
+B = "5" ;
+B += A ;
+PRINT A ;
+PRINT B ;

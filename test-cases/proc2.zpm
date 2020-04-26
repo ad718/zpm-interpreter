@@ -1,0 +1,18 @@
+PROC H
+  A *= 3 ;
+  B *= 2 ;
+ENDPROC
+PROC G
+  B += A ;
+  CALL H ;
+ENDPROC
+INT A ;
+INT B ;
+A = 2 ;
+B = 1 ;
+CALL G ;
+print A ;
+print B ;
+FOR 5 CALL G ; ENDFOR
+print A ;
+print B ;

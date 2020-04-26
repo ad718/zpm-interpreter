@@ -1,0 +1,7 @@
+INT intVar1 ;
+INT intvar2 ;
+intVar2 = 0 ;
+intVar1 = 1 ;
+FOR 5 intVar1 *= 2 ; FOR 10 intvar2 += 1 ; ENDFOR ENDFOR
+print intvar1 ;
+print intvar2 ;

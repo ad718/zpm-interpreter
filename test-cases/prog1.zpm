@@ -1,0 +1,15 @@
+INT intVar1 ;
+Int intVar2 ;
+BOOL boolVar ;
+intVar1 = 1 ;
+intVar2 = 0 ;
+boolVar = TRUE ;
+intVar1 += boolVar ;
+intVar1 += TRUE ;
+PRINT intVar1 ;
+PRINT intVar2 ;
+PRINT boolVar ;
+STRING stringVar ;
+stringVar = "hello" ;
+STRINGVAR += "world" ;
+PRINT stringVar ;

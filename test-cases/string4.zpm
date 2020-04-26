@@ -1,0 +1,4 @@
+STRING a ;
+a = "AB" ;
+a += a ;
+PRINT a ;

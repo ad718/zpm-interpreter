@@ -1,0 +1,13 @@
+PROC C
+  A += "2" ;
+  B += 2 ;
+ENDPROC
+INT B ;
+STRING A ;
+B = 5 ;
+A = "5" ;
+PRINT A ;
+CALL C ;
+CALL C ;
+PRINT A ;
+PRINT B ;

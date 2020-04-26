@@ -1,0 +1,8 @@
+INT A ;
+INT B ;
+A = 1 ;
+B = 10 ;
+FOR 5 B += A ; ENDFOR
+A += 1000 ;
+PRINT A ;
+PRINT B ;

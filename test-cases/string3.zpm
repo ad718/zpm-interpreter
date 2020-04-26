@@ -1,0 +1,8 @@
+STRING A ;
+A = "Happy" ;
+STRING B ;
+B = A ;
+A += "Birthday" ;
+A += "!" ;
+PRINT A ;
+PRINT B ;

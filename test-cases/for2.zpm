@@ -1,0 +1,4 @@
+STRING A ;
+A = "AB" ;
+FOR 4 A += "!" ; ENDFOR
+PRINT A ;

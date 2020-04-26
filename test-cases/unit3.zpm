@@ -1,0 +1,5 @@
+BOOL A ;
+BOOL B ;
+A = B ;
+PRINT A ;
+PRINT B ;
